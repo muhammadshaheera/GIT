@@ -1,4 +1,4 @@
-########################### Git on CentOS7 ###########################
+# Git on CentOS7
 
 `cd /path/of/git`
 `git init` #To initializes a new Git repo
